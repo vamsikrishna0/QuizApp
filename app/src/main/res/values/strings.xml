@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="intro">Test your knowledge about the world renowned legendary music composer</string>
+    <string name="rahman">A.R Rahman</string>
+    <string name="question_one">1.When was Rahman born? </string>
+    <!-- Right option is a. 6 January 1967-->
+    <string name="answer_one_a">6 January 1967</string>
+    <string name="answer_one_b">20 June 1969</string>
+    <string name="answer_one_c">16 Feb 1970</string>
+
+    <string name="question_two">2.What was the first movie Rahman scored music for?</string>
+    <string name="question_two_hint">Movie Name</string>
+    <string name="question_two_answer">Roja</string>
+
+    <!-- Right option is b. 1992-->
+    <string name="question_three">3.Which year did that movie release?</string>
+    <string name="answer_three_a">1993</string>
+    <string name="answer_three_b">1992</string>
+    <string name="answer_three_c">1990</string>
+
+    <string name="question_four_start">4.Rahman is “The</string>
+    <string name="question_four_end">of Madras”</string>
+    <string name="question_four_hint">Title</string>
+    <string name="question_four_answer">Mozart</string>
+
+    <string name="question_five">5.How many Grammy awards did Rahman win?</string>
+    <string name="answer_five_a">1</string>
+    <string name="answer_five_b">2</string>
+    <string name="answer_five_c">5</string>
+
+    <string name="question_six">6.In which category/categories did Rahman win an Oscar for?</string>
+    <string name="answer_six_a">Best Original Song</string>
+    <string name="answer_six_b">Best Original Score</string>
+    <string name="answer_six_c">Best Sound Mixing</string>
+
+    <string name="question_seven">7.Which year did Rahman win the Oscars?</string>
+    <string name="answer_seven_a">2009</string>
+    <string name="answer_seven_b">2010</string>
+    <string name="answer_seven_c">2011</string>
+
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+</resources>
